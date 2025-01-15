@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fd0f5dec-288f-4248-8a6d-c6351d596871)<div align="center">
+<div align="center">
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/marcos-fernando-alcaraz-valdivia-a44961243/">Fer</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/AlcyfBW.png">
