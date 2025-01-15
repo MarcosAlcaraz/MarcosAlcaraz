@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/marcos-fernando-alcaraz-valdivia-a44961243/">Fer</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/AlcyfBW.png">
+<img src="https://i.imgur.com/AlcyfBW.jpeg">
 
 ## About Me
 
