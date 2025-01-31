@@ -12,13 +12,13 @@
 - 📊 Data Analyst
 <br>
 
-## Proyectos *<Write something here man*
+## Te presento mis habilidades digitalizadas
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Manga Library</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/MarcosAlcaraz/Manga_Library" target="_blank"><img src="https://www.cutitoutwallstickers.co.uk/cdn/shop/products/You-Should-Put-Something-Really-Great-Here-Cut-It-Out-Wall-Stickers-Art-Decals-black.jpg" width="400" alt="App Android de Biblioteca de Manga"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
