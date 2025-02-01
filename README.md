@@ -19,34 +19,18 @@
 <h3 align="center">Manga Library</h3>
 <div align="center">
 <a href="https://github.com/MarcosAlcaraz/Manga_Library" target="_blank"><img src="https://www.cutitoutwallstickers.co.uk/cdn/shop/products/You-Should-Put-Something-Really-Great-Here-Cut-It-Out-Wall-Stickers-Art-Decals-black.jpg" width="400" alt="App Android de Biblioteca de Manga"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Una biblioteca de <strong>Mangas Online</strong> con sistema de Cuentas de Usuario y títulos favoritos, incluso <strong>Tu puedes ser un Artista</strong> si te lo propones y subir tu trabajo en Manga Library.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Vota UdeG App</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/MarcosAlcaraz/Vota_UdeG-Android_App" target="_blank"><img src="https://www.cutitoutwallstickers.co.uk/cdn/shop/products/You-Should-Put-Something-Really-Great-Here-Cut-It-Out-Wall-Stickers-Art-Decals-black.jpg" width="400" alt="App para votar pensada para la Universidad de Guadalajara"></a>
 <br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Es una App que te será de gran utilidad para <strong>Gestionar votaciones</strong>. Puedes iniciar sesión como participante y votar solo una vez por votacion o como administrador, el administrador tiene los datos de las votaciones en tiempo real y puede cerrar las votaciones cuando lo requiera. Es una App Segura y fácil de usar.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
