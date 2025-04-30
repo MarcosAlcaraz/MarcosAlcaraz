@@ -11,7 +11,7 @@
 - 🤖 Machine Learning and AI tools developer
 - 📊 Data Analyst
 <br>
-/*aaa*/
+
 ## Te presento mis habilidades digitalizadas
 <table>
 <tr>
